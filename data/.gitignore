@@ -1,0 +1,15 @@
+# Ignore everything in the directory
+/*
+# Except these:
+!kasumi.txt
+!test.txt
+!blockchain.txt
+!pending_transactions_blockchain.txt
+!/keys/
+!keys/*
+!/iv/
+!iv/*
+!/primes/
+!primes/*
+!/wallets/
+!.gitignore
